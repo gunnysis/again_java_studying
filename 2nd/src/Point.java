@@ -3,11 +3,13 @@ public class Point {
     int y;
 
     Point(){
-        this(1,1);
+        //this(5);
     }
+    //Recursive constructor invocation
+//    Point(int x){
+//        this();
+//    }
     Point(int x,int y){
-        this.x = x;
-        this.y = y;
-    }
 
+    }
 }
