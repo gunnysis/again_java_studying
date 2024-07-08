@@ -3,7 +3,7 @@ public class ExOperator {
         int a = 5;
         int b = 2;
 
-        //Monadic Operator
+        //Binary Operators
         System.out.println("a+b:"+(a+b));
         System.out.println("a-b:"+(a-b));
         System.out.println("a*b:"+(a*b));
@@ -28,7 +28,7 @@ public class ExOperator {
         result++;
         result--;
 
-        // Sign Operator
+        // Sign Operator/Unary Operators
         result = 10;
         result = -result;
         System.out.println("10(result variable value) of - Sign Operator:"+result);
