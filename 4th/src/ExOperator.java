@@ -12,7 +12,7 @@ public class ExOperator {
 
         System.out.println("=========================");
 
-        // Comparison Operator
+        // Comparison Operators
         System.out.println("a>b:"+(a>b));
         System.out.println("a<b:"+(a<b));
 
