@@ -3,15 +3,15 @@ package sellingFruit;
 public class MainTest {
     public static void main(String[] args) {
         // Define object variables
-        Seller seler1 = new Seller(5,3);
+        Seller seler1 = new Seller(10,5);
         Seller seler2 = new Seller(2,2);
-        Buyer buyer1 = new Buyer(1000);
-        Buyer buyer2 = new Buyer(2000);
-        Buyer buyer3 = new Buyer(300);
+        Buyer buyer1 = new Buyer(10000);
+        Buyer buyer2 = new Buyer(10000);
+        Buyer buyer3 = new Buyer(10000);
 
         // call order method of all Test.Buyer instance variables
         buyer1.order(seler1,0,1);
-        buyer2.order(seler1,3,1);
+        buyer2.order(seler1,1,0);
         buyer3.order(seler1,1,1);
 
         // print field variable of all instances

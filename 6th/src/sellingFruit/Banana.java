@@ -1,5 +1,5 @@
 package sellingFruit;
 
 public class Banana {
-    static int unitPrice = 50;
+    static int unitPrice = 3000;
 }
