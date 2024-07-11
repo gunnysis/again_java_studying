@@ -1,4 +1,4 @@
-package sellingFruit;
+package sellingfruit;
 
 public class Buyer {
     int budget;
@@ -18,8 +18,9 @@ public class Buyer {
 
     }
 
+    // 나의 보음 금액을 줄이고 seller에게 돈을 준다.
     public void giveMoney(Seller seller, int total) {
-        seller.takeMoney(total);
         budget -= total;
+        seller.takeMoney(total);
     }
 }

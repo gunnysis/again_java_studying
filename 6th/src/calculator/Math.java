@@ -1,4 +1,4 @@
-package basic;
+package calculator;
 
 import java.util.stream.IntStream;
 
@@ -12,7 +12,7 @@ public class Math {
         return result;
     }
 
-    int sumOddNumber(int toNum) {
+    int sumEvenNumber(int toNum) {
         return IntStream.rangeClosed(1,toNum).filter(n -> n % 2 == 0).sum();
     }
 }

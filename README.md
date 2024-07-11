@@ -28,3 +28,15 @@
 - It utilized lengthOfMonth method of YearMonth class imported from 'java.time' package.
 #### 1.5. isPrimeNumber method of MathManagement class
 - It used 'int array type' at parameter and for-each loop.
+## Explain 6th Directory
+### 1. Explain of packages
+#### 1.1. calculator package is math contents
+#### 1.2. sellingfruit package is a program that sells fruit
+- This package that is used a method of sending and receiving data between each class through the operation of values.
+### 2. Explain Classes
+#### 2.1. math class of calculator package
+- It used the method of finding an Even number with rangeClosed and filter methods of Intstream Class
+#### 2.2. Apple and Banana class of sellingfruit package
+- It made class for use only field variable values of object.
+## Explain 7th Directory
+- It used ways How to various array and stream.

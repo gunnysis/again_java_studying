@@ -1,4 +1,4 @@
-package sellingFruit;
+package sellingfruit;
 
 public class Seller {
     int holdAppleQuantity;
