@@ -54,7 +54,12 @@
   - It made class for use only field variable values of object.
 ---
 ## Explain 7th Directory
-- It used ways How to various array and stream.
+- Explain EducationManagement class
+  - calculate multiple and average using array type parameter variable at method.
+    - It used OptionalDouble, DoubleStream class on getAverage method. 
+- Explain ExArray class
+  - There are ways How to store and print values of Array.
+    - These ways are 'for statement', 'hash map', 'IntStream', 'for-each statement'. 
 ---
 ## Explain 8th Directory
 - Explain of ExMethod class
