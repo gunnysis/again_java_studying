@@ -1,5 +1,14 @@
 # codes of studying java
 
+> ### 1. [1st](#explain-1st-directory)
+> ### 2. [2nd](#explain-2nd-directory)
+> ### 3. [3rd](#explain-3rd-directory)
+> ### 4. [4th](#explain-4th-directory)
+> ### 5. [5th](#explain-5th-directory)
+> ### 6. [6th](#explain-6th-directory)
+> ### 7. [7th](#explain-7th-directory)
+> ### 8. [8th](#explain-8th-directory)
+
 ## Explain 1st Directory 
 - How to define class.
 ---
@@ -46,3 +55,11 @@
 ---
 ## Explain 7th Directory
 - It used ways How to various array and stream.
+---
+## Explain 8th Directory
+- Explain of ExMethod class
+  - print all parameters that have different kinds of parameter types and parameter counts.
+  - It used of(), range(), forEach() method at Stream, IntSteam class printing variables of String, char array type.
+- Explain of ExMethod2 class
+  - Method2 class too, It's similar to Method class ways.
+---
