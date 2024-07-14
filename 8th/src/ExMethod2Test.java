@@ -12,6 +12,5 @@ public class ExMethod2Test {
         System.out.println();
         IntStream.range(0,exMethod2.f("My","Name").length)
                 .forEach(i -> System.out.print(exMethod2.f("My","Name")[i]+","));
-
     }
 }
