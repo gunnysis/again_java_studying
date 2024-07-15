@@ -1,6 +1,7 @@
 package exam;
 
 import java.util.ArrayList;
+import java.util.InputMismatchException;
 import java.util.List;
 import java.util.Scanner;
 
@@ -22,8 +23,14 @@ public class AnalyzeScore {
 
         int choice = 0;
         while (choice != 5) {
-            System.out.print("선택> ");
-            choice = new Scanner(System.in).nextInt();
+            try {
+                System.out.print("선택> ");
+                choice = Integer.valueOf(new Scanner(System.in).nextLine());
+            }
+            catch ( NumberFormatException e ) {
+                System.out.println("숫자를 입력해주세요.");
+                continue;
+            }
             switch (choice) {
                 case 1:
                     System.out.print("학생수> ");
@@ -46,10 +53,9 @@ public class AnalyzeScore {
                     System.out.println("평균 점수: "+analysis.averageScore());
                     break;
                 case 5:
-                    System.exit(0);
+                    break;
                 default:
                     System.out.println("잘못 입력하셨습니다. 다시 입력해주세요.");
-                    continue;
             }
         }
 
