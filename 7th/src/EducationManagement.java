@@ -17,6 +17,7 @@ public class EducationManagement {
     static double[] getMultiplicationArray(double[] scores) {
         // double[] scores = new double[scores.length];
         int i=0;
+        // enhanced for statement
         for(double score : scores) {
             scores[i] = score * 10;
             i++;
