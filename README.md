@@ -81,4 +81,5 @@
 ---
 ## Explain 10th Directory
 - It's code that used object array type variables.
+- It used static function on staticex package.
 ---
