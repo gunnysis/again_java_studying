@@ -80,5 +80,5 @@
       - The 'figure' package provides and calculates geometric figures, utilizing collections and encapsulation techniques.
 ---
 ## Explain 10th Directory
-- It used Object Array type variables.
+- It's code that used object array type variables.
 ---

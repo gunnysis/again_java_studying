@@ -11,7 +11,6 @@ public class MainTest {
 
         // call order method of all Test.Buyer instance variables
         buyer1.order(seler1,0,1);
-        buyer1.order(seler1,1,0);
         buyer2.order(seler1,2,0);
         buyer2.order(seler1,0,2);
         buyer3.order(seler1,1,1);

@@ -8,7 +8,6 @@ public class Seller {
     Seller(int holdAppleQuantity, int holdBananaQuantity) {
         this.holdAppleQuantity = holdAppleQuantity;
         this.holdBananaQuantity = holdBananaQuantity;
-        income = 0;
     }
 
     // 주문 개수만큼 과일을 파는 메소드 구현
