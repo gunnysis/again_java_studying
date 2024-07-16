@@ -8,6 +8,8 @@
 > 6. [6th](#explain-6th-directory)
 > 7. [7th](#explain-7th-directory)
 > 8. [8th](#explain-8th-directory)
+> 9. [9th](#explain-9th-directory)
+> 10. [10th](#explain-10th-directory)
 
 ## Explain 1st Directory 
 - How to define class.
@@ -65,8 +67,18 @@
 ## Explain 8th Directory
 1. Explain classes
    - Explain of ExMethod class
-     - print all parameters that have different kinds of parameter types and parameter counts.
-     - It used of(), range(), forEach() method at Stream, IntSteam class printing variables of String, char array type.
+      - print all parameters that have different kinds of parameter types and parameter counts.
+      - It used of(), range(), forEach() method at Stream, IntSteam class printing variables of String, char array type.
    - Explain of ExMethod2 class
-     - Method2 class too, It's similar to Method class ways.
+      - Method2 class too, It's similar to Method class ways.
+---
+## Explain 9th Directory
+1. Explain Packages
+   - exam package
+      - The 'exam' package calculates the scores of students using classes that handle data analysis, score calculations, and student information.
+    - figure package
+      - The 'figure' package provides and calculates geometric figures, utilizing collections and encapsulation techniques.
+---
+## Explain 10th Directory
+- It used Object Array type variables.
 ---
