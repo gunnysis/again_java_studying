@@ -10,6 +10,7 @@
 > 8. [8th](#explain-8th-directory)
 > 9. [9th](#explain-9th-directory)
 > 10. [10th](#explain-10th-directory)
+> 11. [11th](#explain-11th-directory)
 
 ## Explain 1st Directory 
 - How to define class.
@@ -82,4 +83,8 @@
 ## Explain 10th Directory
 - It's code that used object array type variables.
 - It used static function on staticex package.
+---
+## Explain 11th Directory
+- How to use and define the inheritance class.
+- How to use the method hiding concept.
 ---
