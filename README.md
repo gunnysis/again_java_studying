@@ -1,16 +1,16 @@
 # codes of studying java
 
-> 1. [1st](#explain-1st-directory)
-> 2. [2nd](#explain-2nd-directory)
-> 3. [3rd](#explain-3rd-directory)
-> 4. [4th](#explain-4th-directory)
-> 5. [5th](#explain-5th-directory)
-> 6. [6th](#explain-6th-directory)
-> 7. [7th](#explain-7th-directory)
-> 8. [8th](#explain-8th-directory)
-> 9. [9th](#explain-9th-directory)
-> 10. [10th](#explain-10th-directory)
-> 11. [11th](#explain-11th-directory)
+> 1. [1st](#explain-1st-directory) - [Go to folder] (1st/)
+> 2. [2nd](#explain-2nd-directory) - [Go to folder] (2nd/)
+> 3. [3rd](#explain-3rd-directory) - [Go to folder] (3rd/)
+> 4. [4th](#explain-4th-directory) - [Go to folder] (4th/)
+> 5. [5th](#explain-5th-directory) - [Go to folder] (5th/)
+> 6. [6th](#explain-6th-directory) - [Go to folder] (6th/)
+> 7. [7th](#explain-7th-directory) - [Go to folder] (7th/)
+> 8. [8th](#explain-8th-directory) - [Go to folder] (8th/)
+> 9. [9th](#explain-9th-directory) - [Go to folder] (9th/)
+> 10. [10th](#explain-10th-directory) - [Go to folder] (10th/)
+> 11. [11th](#explain-11th-directory) - [Go to folder] (10th/)
 
 ## Explain 1st Directory 
 - How to define class.
