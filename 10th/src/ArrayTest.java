@@ -1,3 +1,5 @@
+import java.util.stream.IntStream;
+
 public class ArrayTest {
     public static void main(String[] args) {
         // Object array type
@@ -21,6 +23,16 @@ public class ArrayTest {
         recs[1] = r2;
         recs[2] = r3;
         recs[3] = r4;
-    }
 
+        int sumX = 0, sumY = 0;
+//        for (int i = 0; i < points.length; i++) {
+//            sumX += points[i].x;
+//            sumY += points[i].y;
+//        }
+        sumX = IntStream.range(0, points.length).map(v -> points[v].x).sum();
+        sumY = IntStream.range(0, points.length).map(v -> points[v].y).sum();
+
+        System.out.println("sum x:"+sumX);
+        System.out.println("sum Y:"+sumY);
+    }
 }
