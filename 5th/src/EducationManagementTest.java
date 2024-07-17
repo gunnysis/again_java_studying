@@ -1,5 +1,3 @@
-package basic;
-
 public class EducationManagementTest {
 
     public static void main(String[] args) {

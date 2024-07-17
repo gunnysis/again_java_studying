@@ -1,7 +1,3 @@
-package basic;
-
-import java.lang.reflect.Array;
-import java.util.Map;
 import java.util.stream.IntStream;
 
 public class MathManagementTest {
