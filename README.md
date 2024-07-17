@@ -1,16 +1,16 @@
 # codes of studying java
 
-> 1. [1st](#explain-1st-directory) - [Go to folder](1st/src/)
-> 2. [2nd](#explain-2nd-directory) - [Go to folder](2nd/src/)
-> 3. [3rd](#explain-3rd-directory) - [Go to folder](3rd/src/)
-> 4. [4th](#explain-4th-directory) - [Go to folder](4th/src/)
-> 5. [5th](#explain-5th-directory) - [Go to folder](5th/src/)
-> 6. [6th](#explain-6th-directory) - [Go to folder](6th/src/)
-> 7. [7th](#explain-7th-directory) - [Go to folder](7th/src/)
-> 8. [8th](#explain-8th-directory) - [Go to folder](8th/src/)
-> 9. [9th](#explain-9th-directory) - [Go to folder](9th/src/)
-> 10. [10th](#explain-10th-directory) - [Go to folder](10th/src/)
-> 11. [11th](#explain-11th-directory) - [Go to folder](11th/src/)
+> 1. [1st](#explain-1st-directory) - [Go to class files of Dir](1st/src/)
+> 2. [2nd](#explain-2nd-directory) - [Go to class files of Dir](2nd/src/)
+> 3. [3rd](#explain-3rd-directory) - [Go to class files of Dir](3rd/src/)
+> 4. [4th](#explain-4th-directory) - [Go to class files of Dir](4th/src/)
+> 5. [5th](#explain-5th-directory) - [Go to class files of Dir](5th/src/)
+> 6. [6th](#explain-6th-directory) - [Go to class files of Dir](6th/src/)
+> 7. [7th](#explain-7th-directory) - [Go to class files of Dir](7th/src/)
+> 8. [8th](#explain-8th-directory) - [Go to class files of Dir](8th/src/)
+> 9. [9th](#explain-9th-directory) - [Go to class files of Dir](9th/src/)
+> 10. [10th](#explain-10th-directory) - [Go to class files of Dir](10th/src/)
+> 11. [11th](#explain-11th-directory) - [Go to class files of Dir](11th/src/)
 
 ## Explain 1st Directory 
 - How to define class.
