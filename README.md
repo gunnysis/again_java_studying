@@ -10,7 +10,7 @@
 > 8. [8th](#explain-8th-directory) - [Go to folder](8th/)
 > 9. [9th](#explain-9th-directory) - [Go to folder](9th/)
 > 10. [10th](#explain-10th-directory) - [Go to folder](10th/)
-> 11. [11th](#explain-11th-directory) - [Go to folder](10th/)
+> 11. [11th](#explain-11th-directory) - [Go to folder](11th/)
 
 ## Explain 1st Directory 
 - How to define class.
