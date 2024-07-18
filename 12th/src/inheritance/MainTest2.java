@@ -2,11 +2,10 @@ package inheritance;
 
 public class MainTest2 {
     public static void main(String[] args) {
-        Animal animal = new Animal();
-        animal.play();
-        Cat cat = new Cat();
-        cat.play();
-        Dog dog = new Dog();
-        dog.play();
+
+        Animal a1 = new Animal();
+        // Up Casting concept
+        Animal a2 = new Dog();
+        Animal a3 = new Cat();
     }
 }
