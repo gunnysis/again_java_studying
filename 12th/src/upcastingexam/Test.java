@@ -1,4 +1,4 @@
-package exam;
+package upcastingexam;
 
 import java.lang.reflect.Method;
 

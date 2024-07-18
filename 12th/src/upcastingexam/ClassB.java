@@ -1,4 +1,4 @@
-package exam;
+package upcastingexam;
 
 public class ClassB extends ClassA {
     void methodA() {
