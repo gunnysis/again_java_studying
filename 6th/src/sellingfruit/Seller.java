@@ -17,7 +17,7 @@ public class Seller {
             holdAppleQuantity -= appleCount;
             holdBananaQuantity -= bananaCount;
         }else {
-            System.out.println("소유하고 있는 과일 개수가 부족하여 판매중지합니다.");
+            System.out.println("Only this seller instance is suspending sales due to the insufficient number of fruits it owns.");
             System.out.println("=====================================");
             return 0;
         }
