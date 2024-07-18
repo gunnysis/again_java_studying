@@ -1,2 +1,8 @@
-package PACKAGE_NAME;public class Animal {
+package inheritance;
+
+public class Animal {
+
+    void play() {
+        System.out.println("Animal is play()");
+    }
 }

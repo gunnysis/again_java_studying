@@ -1,2 +1,9 @@
-package PACKAGE_NAME;public class Cat {
+package inheritance;
+
+public class Cat extends Animal{
+
+    @Override
+    void play() {
+        System.out.println("Cat is play()");
+    }
 }
