@@ -1,5 +1,3 @@
-package inheritancecasting;
-
 public class Cat extends Animal{
 
     @Override
