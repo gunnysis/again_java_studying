@@ -26,10 +26,12 @@ public class Test {
 
     // Its method is to call the methods available
     // on the first parameter's object variable at the second parameter's class type variable.
+    // '?' (Generic)can use be that is all available Class Type.
     public static void invokeMethods(Object obj, Class<?> clazz) {
         Method[] methods = clazz.getDeclaredMethods();
         for (Method method : methods) {
             try {
+                // if ( method.equals(obj.getClass().getMethods()) != true ) {
                 if (method.getDeclaringClass() != Object.class) {
                     method.setAccessible(true);
                     method.invoke(obj);
@@ -39,6 +41,7 @@ public class Test {
             }
         }
     }
+
 
 
 
