@@ -1,3 +1,5 @@
+package abstractexam;
+
 public class MainTest {
     public static void main(String[] args) {
         X x = new X();

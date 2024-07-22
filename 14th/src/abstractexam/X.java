@@ -1,3 +1,5 @@
+package abstractexam;
+
 public class X {
     A a;
 
