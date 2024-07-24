@@ -1,4 +1,4 @@
-package packageex.a;
+package packageex.b;
 
 public class A {
 }
