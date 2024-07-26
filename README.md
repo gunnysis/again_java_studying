@@ -14,6 +14,8 @@
 > 11. [12th](#explain-12th-directory) - [Go to class files of Dir](12th/src/)
 > 11. [13th](#explain-13th-directory) - [Go to class files of Dir](13th/src/)
 > 11. [14th](#explain-14th-directory) - [Go to class files of Dir](14th/src/)
+> 11. [15th](#explain-15th-directory) - [Go to class files of Dir](15th/src/)
+> 11. [16th](#explain-16th-directory) - [Go to class files of Dir](16th/src/)
 
 ## Explain 1st Directory 
 - How to define class.
@@ -100,5 +102,19 @@
 ---
 ## Explain 14th Directory
 - How to utilize the concepts of interfaces and abstract classes/methods.
+---
+## Explain 15th Directory
+- Explain Packages
+  1. finalex
+  - Describe condition calling things for the final keyword.
+  2. inheritanceex
+  - How to define and call the classes of Inheritance relationships.
+  3. interfaceex
+  - How to define and call the classes and interfaces of Inheritance relationships.
+  4. complexclasstypeex
+  - How to define and call the all relationships.
+---
+## Explain 16th Directory
+-  Describe other packages relationships.
 ---
 

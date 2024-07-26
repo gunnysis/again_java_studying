@@ -29,5 +29,18 @@ public class Test {
         }finally {
             System.out.println("에러");
         }
+
+        exception(); // exception example method
+
+
+    }
+
+    public void test() {
+
+    }
+
+    public static void exception() throws ArrayIndexOutOfBoundsException, IndexOutOfBoundsException{
+        int[] array = new int[5];
+        System.out.println(array[5]);
     }
 }
