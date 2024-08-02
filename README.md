@@ -16,6 +16,8 @@
 > 11. [14th](#explain-14th-directory) - [Go to class files of Dir](14th/src/)
 > 11. [15th](#explain-15th-directory) - [Go to class files of Dir](15th/src/)
 > 11. [16th](#explain-16th-directory) - [Go to class files of Dir](16th/src/)
+> 11. [17th](#explain-17th-directory) - [Go to class files of Dir](17th/src/)
+> 11. [18th](#explain-18th-directory) - [Go to class files of Dir](18th/src/)
 
 ## Explain 1st Directory 
 - How to define class.
@@ -116,5 +118,17 @@
 ---
 ## Explain 16th Directory
 -  Describe other packages relationships.
+---
+## Explain 17th Directory
+-  How to use Generic functions.
+---
+## Explain 18th Directory
+- Examples that utilized Collection Framework.
+  1. [ArrayList](18th/src/utilizedarraylist)
+  - Book Management System
+  2. [HashMap](18th/src/utilizedhashmap)
+  - Phone Directory Management Program
+  - Word Frequency Calculator 
+  - Duplicate Removal Program
 ---
 
